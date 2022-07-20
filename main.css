@@ -1,0 +1,28 @@
+body{
+background-color:white;
+    font-size: 20;
+    color: black ; 
+}
+p{
+    background-color: lightgreen;
+    font-size: 20;
+    color: chocolate;
+}
+#para1{
+    color: navy;
+}
+.name{
+    color:white;
+    font-size: 3o;
+    background-color: mediumslateblue;
+    border: 20px  solid red;
+    margin: 20px;
+    padding: 20px;
+} 
+    #a1:link{color: #fff;}
+    #a1:visited{color:#00ff00;}
+    #a1:hover{color: #ff00ff;}
+    #a1:active{color:#0000ff;}
+    .vio{
+        display: flex;
+    }
